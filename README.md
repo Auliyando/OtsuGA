@@ -1,4 +1,4 @@
-![Input](https://github.com/user-attachments/assets/130d9270-2dff-4152-8c4c-30208920fa5c)# 📊 Genetic Algorithm for Otsu Thresholding
+# 📊 Genetic Algorithm for Otsu Thresholding
 
 This project implements a **Genetic Algorithm (GA)** to determine the optimal threshold for grayscale image segmentation based on the **Otsu method**. The algorithm uses **binary one-point crossover** and **binary mutation** to optimize threshold values beyond what conventional Otsu thresholding can achieve.
 

@@ -6,7 +6,7 @@ This project implements a **Genetic Algorithm (GA)** to determine the optimal th
 
 ## 📸 Example Results
 
-![Uploading Output.png…]()
+![Output](Output.png)
 
 
 
